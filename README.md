@@ -21,7 +21,7 @@ Criar um texto claro informando que a página não foi encontrada
 
 Garantir que o texto tenha um design bem alinhado e legível.
 
-**Requisito 4: **
+**Requisito 4:**
 
 Criar botões de navegação
 
