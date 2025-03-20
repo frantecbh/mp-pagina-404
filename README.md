@@ -1,9 +1,10 @@
 # Página 404
 
-Quem nunca encontrou uma página 404, não é mesmo? Esse mini projeto consisttte em criar uma página de erro 404 projetada para oferecer uma experiência visual amigável ao usuário quando ele acessa uma URL inexistente no site da CodeSpace. A página apresenta um design moderno e ilustrativo, incluindo um texto informativo, botões de redirecionamento e links para redes sociais.
+Quem nunca encontrou uma página 404, não é mesmo? Esse mini projeto consiste em criar uma página de erro 404 projetada para oferecer uma experiência visual amigável ao usuário quando ele acessa uma URL inexistente no site da CodeSpace. A página uma imagem ilustrativa, incluindo um texto informativo, botões de redirecionamento e links para redes sociais.
+
 ## 🤓 Antes de começar
 
-(Coloque aqui algum setup / boilerplate e explicações se houver. Se não houver, essa seção pode ser apagada)
+Este projeto consiste na criação de uma página de erro 404 responsiva, utilizando apenas HTML e TailwindCSS. A página exibirá uma mensagem amigável para usuários que acessarem uma URL inexistente, além de oferecer links para navegação.
 
 ## 🔨 Requisitos
 
