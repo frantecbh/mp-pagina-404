@@ -7,29 +7,31 @@ Quem nunca encontrou uma página 404, não é mesmo? Esse mini projeto consiste 
 
 **Requisito 1:**
 
-Criar a navegação (navbar) e incluir uma barra de navegação no topo com links para Home, Sobre nós, Suporte e Fale Conosco.
+Criar a navegação (navbar) e incluir uma barra de navegação no topo com links para home, sobre nós, suporte e fale Conosco.
 
 **Requisito 2:**
 
-Adicionar a ilustração 
-Posicionar uma imagem ou ilustração que represente o erro.
+Adicionar a ilustração e posicionar uma imagem ou ilustração que represente o erro.
 
 **Requisito 3:**
 
 Exibir a mensagem de erro
-Criar um texto claro informando que a página não foi encontrada.
+
+Criar um texto claro informando que a página não foi encontrada
+
 Garantir que o texto tenha um design bem alinhado e legível.
 
 **Requisito 4: **
 
 Criar botões de navegação
-Adicionar um botão para retornar à página inicial.
+
+Adicionar um botão para retornar à página inicial
+
 Adicionar um botão para acessar a central de ajuda.
 
 **Requisito 5:**
 
-Criar um rodapé com links sociais
-Incluir ícones para redes sociais (Instagram, Facebook, LinkedIn).
+Criar um rodapé com o link do site e  incluir ícones para redes sociais (Whatsapp, Facebook, LinkedIn).
 
 > 👀 **Dicas:**
 - Experimente usar flexbox ou grid para alinhar os elementos corretamente.
